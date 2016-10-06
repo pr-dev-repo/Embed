@@ -6,14 +6,15 @@
 
 <h3>Instructions</h3>
 <h4>
-1. To use just publish
+<ul>
+<li>1. To use just publish</li>
 2. Find the .exe file
 3. put in same dir as the font file to be modified
 4. run cmd
 5. cd to the directory
 6. embed.exe fontname.ttf
 
-
+</ul>
 
 
 </h4>
